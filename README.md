@@ -1,0 +1,2 @@
+# analysis-of-clinical-trial-data
+This initiative explores clinical trial data using big data methods to learn more about the clinical studies. Hive, Pyspark, and AWS were used in three different implementations of this investigation, mostly to evaluate methods in various Big data tools. The Hive and Pyspark implementations used the Databricks environment, whereas the AWS implementation used AWS Glue and Athena.
